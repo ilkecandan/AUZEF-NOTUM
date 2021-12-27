@@ -1,0 +1,8 @@
+{
+  "name": "Auzef Notum",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
